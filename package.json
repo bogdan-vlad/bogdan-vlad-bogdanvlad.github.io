@@ -1,0 +1,19 @@
+{
+  "name": "photography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdan-vlad/Projectfirst.git"
+  },
+  "author": "Bogdan Vlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdan-vlad/Projectfirst/issues"
+  },
+  "homepage": "https://github.com/bogdan-vlad/Projectfirst#readme"
+}
