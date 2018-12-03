@@ -101,11 +101,11 @@
                 numCorrect++;
 
                 // color the answers green
-                answerContainers[questionNumber].addClass("lightgreen");
+                // answerContainers[questionNumber].addClass("lightgreen");
             } else {
                 // if answer is wrong or blank
                 // color the answers red
-                answerContainers[questionNumber].addClass("red");
+                // answerContainers[questionNumber].addClass("red");
             }
         });
 
