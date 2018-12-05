@@ -156,7 +156,7 @@
     showSlide(0);
 
     // on submit, show results
-    //submitButton.addEventListener("click", showResults);
-    //previousButton.addEventListener("click", showPreviousSlide);
-    //nextButton.addEventListener("click", showNextSlide);
+    submitButton.addEventListener("click", showResults);
+    previousButton.addEventListener("click", showPreviousSlide);
+    nextButton.addEventListener("click", showNextSlide);
 })();
