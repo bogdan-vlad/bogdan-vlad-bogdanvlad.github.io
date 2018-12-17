@@ -21,7 +21,6 @@ header.container{
 }
 .box {
     height: 50%;
-    background-color: #ECECED;
     padding: 10px;
     margin: 15px;
     border-radius: 20px;
@@ -43,8 +42,7 @@ header.container{
      background-size: cover;
 }
 .carousel {
-    margin-top: -4% !important;
-    position: relative;
+    margin-top: -9% !important;
 }
 #start{
      padding-top: 150px;
@@ -92,9 +90,9 @@ header.container{
 }
  section h3.section-subheading {
      color: black !important;
-     font-size: 16px;
+     font-size: 24px;
      font-weight: 400;
-     font-style: italic;
+     font-style: normal;
      margin-bottom: 75px;
      text-transform: none;
      font-family: sans-serif;
@@ -232,7 +230,7 @@ header.container{
 }
 
  .service-heading {
-    color: white;
+    color: black;
      margin: 15px 0;
      text-transform: none;
      font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
